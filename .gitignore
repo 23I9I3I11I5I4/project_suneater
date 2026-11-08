@@ -1,0 +1,46 @@
+# Unreal Engine: generierte Ordner
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Plugins (nur im Projekt, nicht Engine)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Xcode / macOS
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+
+# Kompilierte Dateien
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.o
+*.a
+*.dylib
+*.so
+
+# Sonstiges
+*.VC.db
+*.opensdf
+*.sdf
+*.tmp
+*.log
